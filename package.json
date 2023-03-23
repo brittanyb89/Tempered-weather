@@ -1,0 +1,22 @@
+{
+  "name": "tempered-weather",
+  "version": "1.0.0",
+  "description": "server-side api weather dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brittanyb89/Tempered-weather.git"
+  },
+  "author": "brittany burton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brittanyb89/Tempered-weather/issues"
+  },
+  "homepage": "https://github.com/brittanyb89/Tempered-weather#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
