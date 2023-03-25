@@ -1,6 +1,6 @@
-.DS_Store
-.cache
-dist
 node_modules
-*.sw*
-.env
+.DS_Store
+dist
+dist-ssr
+*.local
+package-lock.json

@@ -2,9 +2,10 @@
   "name": "tempered-weather",
   "version": "1.0.0",
   "description": "server-side api weather dashboard",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
@@ -15,8 +16,17 @@
   "bugs": {
     "url": "https://github.com/brittanyb89/Tempered-weather/issues"
   },
-  "homepage": "https://github.com/brittanyb89/Tempered-weather#readme",
   "devDependencies": {
-    "prettier": "2.8.6"
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.26.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-config-xo": "^0.42.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "prettier": "2.8.6",
+    "vite": "^3.2.1"
   }
 }
