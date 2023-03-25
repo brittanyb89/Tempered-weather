@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/brittanyb89/Tempered-weather#readme",
   "devDependencies": {
-    "tailwindcss": "^3.2.7"
+    "prettier": "2.8.6"
   }
 }
